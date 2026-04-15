@@ -2,9 +2,10 @@
 
 A web-based Application built with React, TypeScript, and Zustand. 
 
+
 ## Demo
 
-https://product-hub-rose.vercel.app/login
+https://product-hub-rose.vercel.app/
 
 dummy credentials :
 emilys / emilyspass
@@ -18,14 +19,6 @@ emilys / emilyspass
 - Tailwind CSS
 - Axios
 
-## Project Structure
-
-src/
-├── components/
-├── lib/
-├── pages/
-├── stores/
-└── types/
 
 ## Author
 
